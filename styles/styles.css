@@ -1,0 +1,30 @@
+/* FontAwesome Icons mess with the buttons */
+button > i {
+  pointer-events: none;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+}
+.card .card-content {
+  flex-grow: 1;
+}
+
+nav ul a {
+  font-size: 2.2rem;
+}
+#todos-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+#todos-grid div.card-action {
+  display: flex;
+  justify-content: space-between;
+}
+.input-field > label {
+  font-size: 1.5rem;
+}
+.input-field > label {
+  transform: translateY(8px);
+}
