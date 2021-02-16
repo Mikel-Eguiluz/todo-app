@@ -1,7 +1,7 @@
-# Geolocation
+# Todo-App
 
-JavaScript basics practice project. Small app to practice geolocation and Leaflet. Ended up hooking it to a simple GraphQL Schema
+JavaScript basics practice project. Small app to practice REST
 
 ## Dependencies
 
-This project has no dependencies other than Leaflet and Materialize, both included via CDN.
+This project has no dependencies other than Materialize, included via CDN.
